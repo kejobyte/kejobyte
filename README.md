@@ -1,6 +1,6 @@
 # Hi, I'm Kendrick 👋
 - 🎓 CS Major and Aspiring Cloud & Security Engineer
-- 🔍 Focused on Cloud Security, Security Engineering & AI Security
+- 🔍 Focused on Cloud Security, Security Engineering and AI Security
 - 🌱 Currently learning: AWS, Cloud Security, and Threat Defense
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kendrick-e/)
 
