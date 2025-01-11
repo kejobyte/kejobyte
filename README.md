@@ -1,7 +1,7 @@
 # Hi, I'm Kendrick 👋
-- 🎓 CS Major & Cybersecurity Enthusiast
-- 🔍 Interested in Software Engineering & DevOps
-- 🌱 Currently learning: AWS, Cloud, and Security
+- 🎓 CS Major & Aspiring Cloud & Security Engineer
+- 🔍 Focused on Cloud Security, Security Engineering & AI Security
+- 🌱 Currently learning: AWS, Cloud Security, and Threat Defense
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kendrick-e/)
 
 ![Kendrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kejobyte&show_icons=true&theme=radical)
